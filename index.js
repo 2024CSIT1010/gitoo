@@ -1,2 +1,2 @@
-let name="Deepandshu";
-let age= 25;
+let a= "Deepanshu";
+let age=24;
